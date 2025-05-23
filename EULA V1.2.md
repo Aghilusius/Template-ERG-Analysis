@@ -1,6 +1,7 @@
 # End User License Agreement (EULA)
 
-**📅 Release Date:** 2025/02/23  
+**📅 Release Date:** 2025/02/23
+**📅 Last update:** 2025/05/21  
 **📌 Author:** Ferhat Djail  
 **📜 Copyright © Ferhat Djail – 2025 All rights reserved.**  
 
@@ -56,4 +57,11 @@ For any inquiries or permission requests, please contact:
 
 Please respect these terms and contribute to academic research ethically.  
 
-🔹 **Last Updated:** 2025/02/23  
+
+📅 Last update: 2025/05/21
+**Update 1.2 Changes:**
+
+Adjusted certain terms to better align with the more universal English version.
+Removed the “Adapted Peak” tab as it was unnecessary.
+Added the Global B-wave.
+Minor bug fixes.
